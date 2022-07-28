@@ -1,4 +1,4 @@
-## Brendan Rego is taking Data Journalism
+## Data Journalism Projects
 
 <!DOCTYPE html>
 <html>
