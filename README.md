@@ -1,6 +1,5 @@
 ## Data Journalism Projects
 
-<!DOCTYPE html>
 <html>
   <body>
     <h1>Brendan Rego</h1>
