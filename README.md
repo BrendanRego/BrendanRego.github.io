@@ -16,7 +16,7 @@
     <a href="https://imgur.com/rmDiFdN"><img src="https://i.imgur.com/rmDiFdN.png" title="source: imgur.com" width="480" height="360"/></a>
    <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1C_Tug8O6lJmLkEg62IXKDShB4FoTCJDawghzxsI6w4M&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-![title](https://BrendanRego.github.io/Keating2022primary.png)
+![title](https://BrendanRego.github.io/KeatingPrimaryMoney2022.png)
 
   </body>
 </html>
