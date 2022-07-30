@@ -17,6 +17,6 @@
    <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1C_Tug8O6lJmLkEg62IXKDShB4FoTCJDawghzxsI6w4M&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 ![alt tag](https://raw.githubusercontent.com/BrendanRego/BrendanRego.github.io/branch/path/to/img.png?raw=true)
 ![title](https://BrendanRego.github.io/Keating2022primary.png)
-    ![My image](BrendanRego.github.com/repository/img/Keating2022primary.jpg) 
+![My image](BrendanRego.github.com/repository/img/Keating2022primary.jpg) 
   </body>
 </html>
