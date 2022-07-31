@@ -18,10 +18,16 @@
     <a href="https://imgur.com/rmDiFdN"><img src="https://i.imgur.com/rmDiFdN.png" title="source: imgur.com" width="480" height="360"/></a>
    <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?           source=1C_Tug8O6lJmLkEg62IXKDShB4FoTCJDawghzxsI6w4M&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen     mozallowfullscreen allowfullscreen frameborder='0'></iframe>
     
-    ![alt tag] (https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png?raw=true)
+    ![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png?raw=true)
     ![title](https://BrendanRego.github.io/KeatingPrimaryMoney2022.png)
     ![My image](BrendanRego.github.com/repository/img/KeatingPrimaryMoney2022.png)
 
+    <h3>How much has the Earth warmed compared to 20th century standards</h3>
+    <p>Taking a detour from the campaign finance stories that I have been focused on so far this course, for this assignment I decided to look at the average temperature increase from the 1901-2000 average from 2000 t0 2021. This idea seemed perfect for a time series graph and would be able to highlight any dangerous trends that we may be experienceing in regard to climate change</p>
+    <p>From taking this data from the NOAA National Centers for Environmental Information and applying it to a time series graph, there is a clear upward trend that occours. There is a significant amount of variability per year throughout the graph, but the trend reveals itself quite transparently nonetheless. It is hard to difinitie
     
+    ![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png?raw=true)
+    ![title](https://BrendanRego.github.io/AvgTemp.png)
+    ![My image](BrendanRego.github.com/repository/img/AvgTemp.jpg)
   </body>
 </html>
