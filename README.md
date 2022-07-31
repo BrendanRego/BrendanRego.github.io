@@ -16,6 +16,7 @@
     <a href="https://www.fec.gov/data/elections/senate/PA/2022/">Here's where I found my data</a>
     <a href="https://imgur.com/rmDiFdN"><img src="https://i.imgur.com/rmDiFdN.png" title="source: imgur.com" width="480" height="360"/></a>
    <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?           source=1C_Tug8O6lJmLkEg62IXKDShB4FoTCJDawghzxsI6w4M&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen     mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+    <h3>Bill Keating's 2022 Midterm Donation Breakdown So Far</h3>
     ![title](https://BrendanRego.github.io/KeatingPrimaryMoney2022.png)
     <h3>How much has the Earth warmed compared to 20th century standards</h3>
     <p>Taking a detour from the campaign finance stories that I have been focused on so far this course, for this assignment I decided to look at the average annual temperature increase from the 1901-2000 average. This idea seemed perfect for a time series graph and would be able to highlight any dangerous trends that may not be visible without data visualixation.</p>
