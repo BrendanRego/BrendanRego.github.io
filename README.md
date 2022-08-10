@@ -21,6 +21,7 @@
     
     ![title](https://github.com/BrendanRego/BrendanRego.github.io/blob/main/KeatingPrimaryMoney2022.png?raw=true)
     
+    <img src="KeatingPrimaryMoney2022.png" alt="Keating Primary Money">
     <p> </p>
     <h3>How much has the Earth warmed compared to 20th century standards</h3>
     <p>Taking a detour from the campaign finance stories that I have been focused on so far this course, for this assignment I decided to look at the average annual temperature increase from the 1901-2000 average. This idea seemed perfect for a time series graph and would be able to highlight any dangerous trends that may not be visible without data visualixation.</p>
@@ -28,6 +29,8 @@
     <p> </p>
     
     ![title](https://github.com/BrendanRego/BrendanRego.github.io/blob/main/AvgTemp.png?raw=true)
+    
+    <img src="AvgTemp.png" alt="Average Temperature Over Time">
     
     <p> </p>
     <h3>A look at the top 10 colleges in America</h3>
