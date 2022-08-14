@@ -5,6 +5,7 @@
     <h1>Brendan Rego</h1>
     <h3>Lehigh University Class of 2024, Political Science and Journalism major.</h3>
     
+    <img src="KeatingPrimaryMoney2022.png" alt="Brendan Rego Headshot">
     
     <p>I am orignially from the South Coast of Massachusetts, and I have had six family members attend Lehigh in the last two generations, including my mother, grandfather, and my aunts and uncles.</p>
     
