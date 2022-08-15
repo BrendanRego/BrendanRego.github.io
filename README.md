@@ -34,6 +34,7 @@
     
     <p>The history of campaign finance regulation can be seen as a history of laws that are passed by one ideological group and then subsequently repealed or deemed unconstitutional by another ideological group. In the past decade, we see that one ideological group, those opposed to any significant regulation on corporate contributions, has seemed to have won the day. Since the passing of Citizens United in 2011, there has yet to be any legislative counterbalance that attempts to curtail the barrage of large donations by corporations to candidates that will represent their interests at the expense of the middle and lower classes. This results in the slew of donations that can be seen when looking at my other projects on the topic.</p>
     
+    
   <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1C_Tug8O6lJmLkEg62IXKDShB4FoTCJDawghzxsI6w4M&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
     
     <h3>Bill Keating's 2022 Midterm Donation Breakdown So Far</h3>
@@ -41,6 +42,8 @@
     <p>MA09 Congressional Rep. Bill Keating has started collecting contributions for his reelection campaign coming up in the Fall. The point of interest for my analysis of his campaign contributions is whether donations have been coming mostly from individuals or from Political Action Committees.</p>
     
     <p>Taking data from the Federal Election Committee's June finance breakdown, I was able to separate Keating's donations into three categories: Individuals, PACs, and other non-political committees. This analysis revealed that while PACs have donated more money overall to the Keating Campaign, a plurality of donations is coming from individuals in smaller amounts.</p>
+    
+    <a href="https://www.fec.gov/data/candidate/H0MA10082/">Here's where I found my data</a>
 
     <img src="KeatingPrimaryMoney2022.png" alt="Keating Primary Money">
  
@@ -50,6 +53,8 @@
     
     <p>When taking this data from the NOAA National Centers for Environmental Information and applying it to a time series graph, there is a clear upward trend that occurs. There is a significant amount of variability per year throughout the graph, but the trend reveals itself quite transparently nonetheless. It is hard to say what specific events caused the great variability that is especially prevalent in the second decade depicted by the graph. There is not enough data available to accurately contribute this phenomenon to global actions like the Paris Climate Accords or global pandemics like Covid-19. The only clear takeaway from this graph is that the Earth is warming, and the current century is set to be much hotter than the century that came before.</p>
     
+    
+    
     <img src="AvgTemp.png" alt="Average Temperature Over Time">
 
     <h3>A look at the top 10 colleges in America</h3>
@@ -57,6 +62,8 @@
     <p>This project looks at the geographic breakdown of the US News and World Report's top 10 colleges in America. I was mostly interested in seeing which region of the nation has the largest concentration of high-ranking colleges.</p>
     
     <p>When looking at the data, it is very clear that the Northeast has by far the highest concentration of top schools, with the West Coast being the only other section represented. Massachusetts and California are tied as the only two states with more than one college in the top 10.</p>
+    
+    <a href="https://www.usnews.com/best-colleges">Here's where I found my data</a>
     
     <iframe src="https://www.google.com/maps/d/u/0/embed?mid=100PKYNf81EBh9nkckSzz-8DdJyh5Xtg&ehbc=2E312F" width="480" height="360"></iframe>
     
@@ -73,6 +80,8 @@
     <p>This analysis led me to a twofold conclusion about the poverty line in America. First, the poverty line is too low to represent the cost of living in the United States accurately. Secondly, the increase of the poverty line from year to year, measured as a percentage of the previous year's amount, is actually decreasing over time and hence not keeping up with inflation. There is a similar slowing down of the projected cost of living over time, but the decrease is noticeably steeper in the case of the poverty line. If this trend were to continue, the federal poverty line will account for less and less of a percentage of the cost of living over time.</p>
     
     <p>This is important because many federal and state level aid and welfare programs use the poverty line as a barometer for eligibility. With the current relationship between the poverty line and the cost of living, many citizens simultaneously do not make enough to survive but make too much to receive aid. This is a situation no person or family should be in.</p> 
+    
+    <a href="https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines/prior-hhs-poverty-guidelines-federal-register-references">Here's where I found my data</a>
     
     <div class='tableauPlaceholder' id='viz1660429410059' style='position: relative'><noscript><a href='#'><img alt='Poverty and Cost over time ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;PovertyandCostProjections&#47;PovertyandCostovertime&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PovertyandCostProjections&#47;PovertyandCostovertime' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;PovertyandCostProjections&#47;PovertyandCostovertime&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1660429410059');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
     
